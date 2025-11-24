@@ -21,6 +21,8 @@ Our [article](https://ieeexplore.ieee.org/document/11262218).
 
 ## Results
 
+Datasets download link: https://lesun.weebly.com/hyperspectral-data-set.html
+
 ### 1. Jasper Ridge
 
 <div align="center">
