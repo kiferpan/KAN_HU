@@ -66,6 +66,10 @@ Datasets download link: https://lesun.weebly.com/hyperspectral-data-set.html
   <img src="./img/Ub_Result.png"width="70%">
 </div>
 
+## 🚀News
+
+- ✅ Code released (2025/11/24)
+- ✅ Paper has been accepted for publication in the IEEE Transactions on Geoscience and Remote Sensing (TGRS).(2025/11/18)
 
 ## Licencing
 
